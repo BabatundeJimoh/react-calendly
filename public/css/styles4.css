@@ -1,0 +1,29 @@
+.new-nav{
+	background-color: white;
+	width: 100%;
+	height: 10vh;
+}
+
+.yoo{ 
+   padding-top: 50px;
+   text-align: center;
+
+
+ }
+.boot{
+	background-color: black;
+   padding-top: 80px;
+   margin-top: 80px;
+  height: 300px;
+  
+}
+
+.hello{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.boo{
+	padding-top: 36px;
+}
